@@ -17,7 +17,7 @@ API_URL = "https://api.2oo9.cloud/MXS47FLFX0U/tnevs/@public/api/getnum"
 OTP_API_URL = "https://api.2oo9.cloud/MXS47FLFX0U/tnevs/@public/api/success-otp"
 LIVE_TRAFFIC_API = "https://api.2oo9.cloud/MXS47FLFX0U/tnevs/@public/api/console"
 
-ADMIN_ID = 6625019627
+ADMIN_ID = 6766344576
 
 # 🕒 Change Number কুলডাউন কনফিগারেশন
 user_last_change = {}  # {user_id: timestamp}
